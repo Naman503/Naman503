@@ -22,10 +22,10 @@
   <a href="https://linkedin.com/in/naman-pathak-b29510200" target="_blank" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank" style="text-decoration: none; margin: 0 8px;">
+  <a href="https://namanpathak.netlify.app/" target="_blank" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/_Portfolio-b21f1f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="[YOUR_GITHUB_URL]" target="_blank" style="text-decoration: none; margin: 0 8px;">
+  <a href="https://github.com/Naman503" target="_blank" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/_GitHub-1a2a6c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;" />
   </a>
 </div>
@@ -223,7 +223,7 @@
     <a href="https://linkedin.com/in/naman-pathak-b29510200" target="_blank" style="text-decoration: none; margin: 0 12px; display: inline-block; transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 16px rgba(0,119,181,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </a>
-    <a href="[YOUR_PORTFOLIO_URL]" target="_blank" style="text-decoration: none; margin: 0 12px; display: inline-block; transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 16px rgba(178,31,31,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+    <a href="https://namanpathak.netlify.app/" target="_blank" style="text-decoration: none; margin: 0 12px; display: inline-block; transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 8px 16px rgba(178,31,31,0.3)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
       <img src="https://img.shields.io/badge/_Explore_My_Work-b21f1f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </a>
   </div>
